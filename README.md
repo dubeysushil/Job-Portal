@@ -30,4 +30,4 @@ Recruiter:
 •	Recruiters can check the list of the candidates who applied for their job.
 •	Recruiters can send the interview mail or contact the candidate directly by their phone number.
 
-•	Technologies used: Java, Spring Boot, Hibernate, HTML, CSS, and SQL.
+•	Technologies used: Java, Spring Boot, Hibernate, HTML, CSS, JSP, and SQL.
